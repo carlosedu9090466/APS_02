@@ -1,0 +1,45 @@
+
+body{
+    margin: 0;
+ }
+ 
+ #container{
+ padding: 0 10px 0 10px;
+ }
+ 
+ 
+ .container-aluno{
+     max-width: 90%;
+     margin-left: 5%;
+     background: #f8f6f6;
+ }
+     
+ .space{
+     margin-top:2.5%;
+ }
+ 
+ .notas{
+ max-width:90%;
+ background:#f8f6f6;
+ margin:6%;
+ font-weight:bold;
+ }
+ 
+ 
+ 
+ .btn-media{
+     padding-top: 20px;
+     text-align: center;
+     padding-left: 20px;
+     
+ }
+ 
+ .titulo_result{
+     background: #f8f6f6;
+     text-align: center;
+     margin: 3%;
+ }
+ 
+ .conf_ta{
+     margin: 0px 5px 0px 5px;
+ }
